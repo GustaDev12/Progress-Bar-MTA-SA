@@ -2,7 +2,6 @@
 Sistema de progress bar
 
 Autor:  @Guh#1074 
-Descrição: Sistema de progress bar
 
 ```lua
 local _progress = { }
